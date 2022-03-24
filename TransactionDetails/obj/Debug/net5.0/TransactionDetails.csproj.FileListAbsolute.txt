@@ -1,0 +1,36 @@
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\bin\Debug\net5.0\TransactionDetails.deps.json
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\bin\Debug\net5.0\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\bin\Debug\net5.0\ref\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\bin\Debug\net5.0\TransactionDetails.pdb
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.AssemblyReference.cache
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfoInputs.cache
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfo.cs
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.CoreCompileInputs.cache
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\ref\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_2_ClassLibrary\TransactionDetails\obj\Debug\net5.0\TransactionDetails.pdb
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.deps.json
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\ref\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.pdb
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.AssemblyReference.cache
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfoInputs.cache
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfo.cs
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.CoreCompileInputs.cache
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\ref\TransactionDetails.dll
+D:\Visual Studio Assignments\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.pdb
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.deps.json
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.dll
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\ref\TransactionDetails.dll
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\bin\Debug\net5.0\TransactionDetails.pdb
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.AssemblyReference.cache
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfoInputs.cache
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.AssemblyInfo.cs
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.csproj.CoreCompileInputs.cache
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.dll
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\ref\TransactionDetails.dll
+D:\GEA Training Assignments\GEA-Training-Assignments\Dot Net Core\Assignment_3_TransactionTest\TransactionDetails\obj\Debug\net5.0\TransactionDetails.pdb

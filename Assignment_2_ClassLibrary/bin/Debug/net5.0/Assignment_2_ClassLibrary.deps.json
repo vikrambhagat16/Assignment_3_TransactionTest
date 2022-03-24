@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assignment_2_ClassLibrary/1.0.0": {
+        "dependencies": {
+          "HumanTimeParser.Core": "2.0.0",
+          "TransactionDetails": "1.0.0"
+        },
+        "runtime": {
+          "Assignment_2_ClassLibrary.dll": {}
+        }
+      },
+      "Humanizer.Core/2.14.1": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "HumanTimeParser.Core/2.0.0": {
+        "runtime": {
+          "lib/net5.0/HumanTimeParser.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "TransactionDetails/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.14.1"
+        },
+        "runtime": {
+          "TransactionDetails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_2_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Humanizer.Core/2.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
+      "path": "humanizer.core/2.14.1",
+      "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "HumanTimeParser.Core/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qhk3KbZbkgdFwuzBMHBPLAVJqqfrO5VhDWgw52tgLEMqVQD1NNCshUYp4RkGyqf33y8csI+XeKMc6ZAyoj7mmQ==",
+      "path": "humantimeparser.core/2.0.0",
+      "hashPath": "humantimeparser.core.2.0.0.nupkg.sha512"
+    },
+    "TransactionDetails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

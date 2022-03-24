@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFODODreGSG5Qfm1/zMwpCdVLesAqDBdmnyBd+PCgNeUO/mRHTAnffAN7fr7Fc/54dWOEwOIaIrZRT6awh0BXw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40024329\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

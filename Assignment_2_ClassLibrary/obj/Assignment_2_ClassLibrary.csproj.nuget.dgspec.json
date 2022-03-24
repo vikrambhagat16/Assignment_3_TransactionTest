@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\Assignment_2_ClassLibrary\\Assignment_2_ClassLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\Assignment_2_ClassLibrary\\Assignment_2_ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\Assignment_2_ClassLibrary\\Assignment_2_ClassLibrary.csproj",
+        "projectName": "Assignment_2_ClassLibrary",
+        "projectPath": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\Assignment_2_ClassLibrary\\Assignment_2_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\40024329\\.nuget\\packages\\",
+        "outputPath": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\Assignment_2_ClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\40024329\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj": {
+                "projectPath": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HumanTimeParser.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj",
+        "projectName": "TransactionDetails",
+        "projectPath": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\TransactionDetails.csproj",
+        "packagesPath": "C:\\Users\\40024329\\.nuget\\packages\\",
+        "outputPath": "D:\\GEA Training Assignments\\GEA-Training-Assignments\\Dot Net Core\\Assignment_3_TransactionTest\\TransactionDetails\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\40024329\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
